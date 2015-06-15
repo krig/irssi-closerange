@@ -1,5 +1,8 @@
 # Irssi script: /window closerange
 
+*edit:* Well, doh! Apparently /window close <lo> <hi> already works. At least I've written my first irssi script now.
+
+
 ## Usage
 
 ```
